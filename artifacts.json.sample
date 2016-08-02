@@ -1,0 +1,14 @@
+{
+	"ORG/REPO": [{
+		"ARTIFACT_TYPE": {
+			"name": "ARTIFACT name",
+			"description": "ARTIFACT description"
+		}
+	}, {
+		"ARTIFACT_TYPE": {
+			"name": "ARTIFACT name",
+			"description": "ARTIFACT description"
+		}
+	}]
+}
+
